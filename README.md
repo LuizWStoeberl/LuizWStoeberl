@@ -85,32 +85,3 @@ The project uses **Looker** to transform public data into interactive visualizat
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuizWStoeberl)
 
----
-
-## GitHub Stats
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizWStoeberl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWStoeberl&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuizWStoeberl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/LuizWStoeberl)
-
-</div>
-
-## Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizWStoeberl&theme=tokyo-night)
