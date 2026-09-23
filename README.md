@@ -15,7 +15,7 @@ I enjoy building projects that combine programming, data and technology to solve
 * 💻 Interested in Web and Mobile Development
 * ☁️ Interested in Cloud and Data Analytics
 * 🌱 Currently improving my skills in programming, data and cloud technologies
-* 🚀 Looking for opportunities to grow as a developer and work on real-world projects
+* 🚀 Looking for opportunities to grow as a developer
 
 ---
 
@@ -52,23 +52,19 @@ I enjoy building projects that combine programming, data and technology to solve
 
 ## Featured Projects
 
----
-
-### 🔹 Lista Chá de Panela
+### Lista Chá de Panela
 
 A web application for managing a **wedding gift list**, developed with React, Express, Prisma and SQLite.
 
 Guests can view available gifts and select an item, which is then registered in the database.
 
----
-
-### 🔹 Câmara de Vereadores — Data Analysis
+### Câmara de Vereadores — Data Analysis
 
 A data analysis and visualization project using **public data from the Câmara de Vereadores**.
 
-The project uses **Looker** to transform the collected data into visualizations and dashboards, making the information easier to explore and understand.
+The project uses **Looker** to transform public data into interactive visualizations and dashboards.
 
-**[View the project →](https://datastudio.google.com/reporting/31a35358-376c-4afa-89d6-4e634918434c/page/k6M4F)**
+**[View the Looker Dashboard →](https://datastudio.google.com/reporting/31a35358-376c-4afa-89d6-4e634918434c/page/k6M4F)**
 
 ---
 
@@ -85,6 +81,14 @@ The project uses **Looker** to transform the collected data into visualizations 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/luiz-wolfgang-stoeberl-aa56aa261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luiz-wolfgang-stoeberl-aa56aa261/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuizWStoeberl)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizWStoeberl&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWStoeberl&layout=compact&theme=tokyonight)
