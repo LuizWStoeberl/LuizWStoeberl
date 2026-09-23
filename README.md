@@ -13,6 +13,7 @@ I enjoy building projects that combine programming, data and technology to solve
 * 🎓 Software Engineering student
 * 📊 Interested in Data Engineering and Data Science
 * 💻 Interested in Web and Mobile Development
+* ☁️ Interested in Cloud and Data Analytics
 * 🌱 Currently improving my skills in programming, data and cloud technologies
 * 🚀 Looking for opportunities to grow as a developer and work on real-world projects
 
@@ -38,10 +39,10 @@ I enjoy building projects that combine programming, data and technology to solve
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-C8202F?style=for-the-badge\&logo=zoho\&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-C8202F?style=for-the-badge\&logo=zoho\&logoColor=white)
 
 ### Cloud
 
@@ -53,23 +54,35 @@ I enjoy building projects that combine programming, data and technology to solve
 
 ### 🔹 Churn Predictor
 
-A project focused on customer churn prediction using Python and Machine Learning.
+A machine learning project focused on **customer churn prediction**, developed with Python.
+
+The project processes customer data, applies a trained machine learning model and identifies customers with a higher risk of churn.
+
+---
 
 ### 🔹 Lista Chá de Panela
 
-A web application for managing wedding gift lists, built with React, Express, Prisma and SQLite.
+A web application for managing a **wedding gift list**, developed with React, Express, Prisma and SQLite.
+
+Guests can view available gifts and select an item, which is then registered in the database.
+
+---
 
 ### 🔹 PescadosApp
 
-A mobile application developed with React Native and Expo, focused on registering fishing information.
+A mobile application developed with **React Native and Expo**, focused on registering fishing information.
+
+The application explores features such as location, fish registration, weight, photos and additional observations.
+
+---
 
 ### 🔹 Câmara de Vereadores — Data Analysis
 
-A data analysis and visualization project using information from the Câmara de Vereadores de Jaraguá do Sul.
+A data analysis and visualization project using **public data from the Câmara de Vereadores**.
 
-The project uses **Looker** to transform data into visualizations and dashboards, supporting the exploration and presentation of public data.
+The project uses **Looker** to transform the collected data into visualizations and dashboards, making the information easier to explore and understand.
 
-[View the project](https://datastudio.google.com/reporting/31a35358-376c-4afa-89d6-4e634918434c/page/k6M4F)
+**[View the project →](https://datastudio.google.com/reporting/31a35358-376c-4afa-89d6-4e634918434c/page/k6M4F)**
 
 ---
 
@@ -77,15 +90,15 @@ The project uses **Looker** to transform data into visualizations and dashboards
 
 * Data Engineering
 * Data Science
-* Python
-* SQL
+* SQL & Databases
 * Cloud Computing
+* Machine Learning
 * Software Development
 
 ---
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)].(www.linkedin.com/in/luiz-wolfgang-stoeberl-aa56aa261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/luiz-wolfgang-stoeberl-aa56aa261)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuizWStoeberl)
