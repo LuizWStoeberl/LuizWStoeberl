@@ -52,12 +52,6 @@ I enjoy building projects that combine programming, data and technology to solve
 
 ## Featured Projects
 
-### 🔹 Churn Predictor
-
-A machine learning project focused on **customer churn prediction**, developed with Python.
-
-The project processes customer data, applies a trained machine learning model and identifies customers with a higher risk of churn.
-
 ---
 
 ### 🔹 Lista Chá de Panela
@@ -65,14 +59,6 @@ The project processes customer data, applies a trained machine learning model an
 A web application for managing a **wedding gift list**, developed with React, Express, Prisma and SQLite.
 
 Guests can view available gifts and select an item, which is then registered in the database.
-
----
-
-### 🔹 PescadosApp
-
-A mobile application developed with **React Native and Expo**, focused on registering fishing information.
-
-The application explores features such as location, fish registration, weight, photos and additional observations.
 
 ---
 
