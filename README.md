@@ -29,12 +29,23 @@ I enjoy building projects that combine programming, data and technology to solve
 ### Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-### Data & Cloud
+### Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-C8202F?style=for-the-badge\&logo=zoho\&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ---
 
@@ -50,7 +61,15 @@ A web application for managing wedding gift lists, built with React, Express, Pr
 
 ### 🔹 PescadosApp
 
-A mobile application project developed with React Native and Expo, focused on registering fishing information.
+A mobile application developed with React Native and Expo, focused on registering fishing information.
+
+### 🔹 Câmara de Vereadores — Data Analysis
+
+A data analysis and visualization project using information from the Câmara de Vereadores de Jaraguá do Sul.
+
+The project uses **Looker** to transform data into visualizations and dashboards, supporting the exploration and presentation of public data.
+
+[View the project](https://datastudio.google.com/reporting/31a35358-376c-4afa-89d6-4e634918434c/page/k6M4F)
 
 ---
 
@@ -59,14 +78,14 @@ A mobile application project developed with React Native and Expo, focused on re
 * Data Engineering
 * Data Science
 * Python
+* SQL
 * Cloud Computing
 * Software Development
-* SQL
 
 ---
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)].(www.linkedin.com/in/luiz-wolfgang-stoeberl-aa56aa261)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuizWStoeberl)
